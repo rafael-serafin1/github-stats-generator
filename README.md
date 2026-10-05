@@ -40,7 +40,7 @@ You now have a **self-hosted, always-fresh stats badge**.
 ### 1. Fork or clone this repository
 
 ```
-git clone https://github.com/RafaelEngel10/github-stats-generator.git
+git clone https://github.com/rafael-serafin1/github-stats-generator.git
 ```
 
 ### 2. Make sure the folder structure is correct
