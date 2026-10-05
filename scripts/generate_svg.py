@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 GITHUB_API = 'https://api.github.com'
-USERNAME = os.environ.get('USERNAME') or 'RafaelEngel10'
+USERNAME = os.environ.get('USERNAME') or 'rafael-serafin1'
 TOKEN = os.environ.get('GITHUB_TOKEN')
 
 
