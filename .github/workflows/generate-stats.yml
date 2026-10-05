@@ -28,7 +28,7 @@ jobs:
       - name: Generate SVG
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
-          USERNAME: RafaelEngel10
+          USERNAME: rafael-serafin1
         run: python scripts/generate_svg.py
 
       - name: Commit and push SVG
