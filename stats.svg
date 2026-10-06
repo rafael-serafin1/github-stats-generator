@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="540" height="160" viewBox="0 0 540 160">
-        <rect width="100%" height="100%" rx="4" fill="#0f172a" />
+        <rect width="100%" height="100%" rx="4" fill="#302921" />
 
         <g transform="translate(35,35)">
             <text x="0" y="0" fill="#7dd3fc" font-weight="600">rafael-serafin1</text>
             <text x="0" y="22" fill="#94a3b8">Rafael Engel Serafin  &#8226; Programador Universitário. </text>
 
             <g transform="translate(0,50)">
-                <text x="0" y="0" fill="#facc15">Stars: 7</text>
-                <text x="160" y="0" fill="#facc15">Repos: 7</text>
+                <text x="0" y="0" fill="#facc15">Stars: 11</text>
+                <text x="160" y="0" fill="#facc15">Repos: 10</text>
                 <text x="320" y="0" fill="#facc15">Forks: 0</text>
 
-                <text x="0" y="28" fill="#a5f3fc">Top languages: Python (2), Unknown (1), Assembly (1)</text>
-                <text x="0" y="46" fill="#e2e8f0">Followers: 1 &#8226; Updated: 2025-11-24 19:08 UTC</text>
+                <text x="0" y="28" fill="#a5f3fc">Top languages: Python (2), JavaScript (2), C# (1)</text>
+                <text x="0" y="46" fill="#e2e8f0">Followers: 3 &#8226; Updated: 2026-10-06 19:10 UTC</text>
             </g>
         </g>
     </svg>
